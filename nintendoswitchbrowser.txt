@@ -1,5 +1,5 @@
-1.1.1.1 ctest.cdn.nintendo.net
-1.1.1.1 dauth-lp1.ndas.srv.nintendo.net
-1.1.1.1 aauth-lp1.ndas.srv.nintendo.net
-1.1.1.1 conntest.nintendowifi.net
-1.1.1.1 receive-lp1.dg.srv.nintendo.net
+192.168.155.246 ctest.cdn.nintendo.net
+192.168.155.246 dauth-lp1.ndas.srv.nintendo.net
+192.168.155.246 aauth-lp1.ndas.srv.nintendo.net
+192.168.155.246 conntest.nintendowifi.net
+192.168.155.246 receive-lp1.dg.srv.nintendo.net
